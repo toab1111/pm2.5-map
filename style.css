@@ -1,0 +1,12 @@
+.leaflet-marker-icon {
+    color: #fff;
+    line-height: 25px;
+    text-align: center;
+    vertical-align: bottom;
+    box-shadow: 2px 1px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+    border-width: 3px;
+    border: 2px solid #fff;
+    opacity: .95;
+    font-size: 1.25em;
+}
